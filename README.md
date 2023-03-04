@@ -4,18 +4,15 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Learn more about web3
 - ⚡ Fun fact: I love to draw and play guitar
-
+- 📫 How to reach me- **vignanthumma@gmail.com**
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/VignanThumma#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/VignanThumma#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/-vignan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/-vignan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vignanofficial#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vignanofficial#gh-dark-mode-only)
+<p align="left"><a href="https://www.linkedin.com/in/-vignan/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp;&nbsp;
+<a  href="https://www.github.com/vignan8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="40/></a> &nbsp;&nbsp;
+ <a href="http://www.instagram.com/vignanofficial" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/VignanThumma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>&nbsp;&nbsp;
+
 
 ### Languages and Tools:
 
