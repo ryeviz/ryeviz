@@ -39,8 +39,6 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Vignan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vignan8&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vignan8&theme=dark&background=000000)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vignan8)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
