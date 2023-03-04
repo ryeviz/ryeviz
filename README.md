@@ -11,8 +11,7 @@
 <p align="left"><a href="https://www.linkedin.com/in/-vignan/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp;&nbsp;
 <a  href="https://www.github.com/vignan8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32"/></a> &nbsp;&nbsp;
  <a href="http://www.instagram.com/vignanofficial" target="_blank" rel="noreferrer"><img src="http://pluspng.com/img-png/instagram-logo-eps-png-instagram-logo-1784.png" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/VignanThumma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme[https://github.com/DavidSuescunPelegay/instagram-logo
-](http://pluspng.com/img-png/instagram-logo-eps-png-instagram-logo-1784.png)-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>&nbsp;&nbsp;
+<a href="https://twitter.com/VignanThumma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>&nbsp;&nbsp;
 
 
 ### Languages and Tools:
