@@ -51,8 +51,7 @@
   srcset="https://github-readme-stats.vercel.app/api?username=vignan8&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=vignan8&show_icons=true" />
-</picture>
+![](https://komarev.com/ghpvc/?username=vignan8&color=blue)
 
 [twitter]: https://twitter.com/VignanThumma
 [instagram]: https://instagram.com/vignanofficial
