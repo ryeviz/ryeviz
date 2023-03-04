@@ -39,7 +39,7 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Vignan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vignan8&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
+![](https://komarev.com/ghpvc/?username=vignan8&color=blue)
 </details>
 
 <picture>
@@ -51,7 +51,7 @@
   srcset="https://github-readme-stats.vercel.app/api?username=vignan8&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-![](https://komarev.com/ghpvc/?username=vignan8&color=blue)
+
 
 [twitter]: https://twitter.com/VignanThumma
 [instagram]: https://instagram.com/vignanofficial
