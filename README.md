@@ -1,9 +1,7 @@
-# Hi there, I'm Vignan 👋 
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👋 Hi, I'm Vignan
+- 🌱 I’m currently learning Advanced Java topics and DSA
+- 👯 I’m looking to collaborate with other projects
 - 🥅 2023 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar
 - 📫 How to reach me- **vignanthumma@gmail.com**
 
 ### Connect with me:
