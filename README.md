@@ -6,8 +6,8 @@
 
 ### Connect with me:
 
-<p align="left"><a href="https://www.linkedin.com/in/-vignan/" target="_blank" rel="noreferrer"><img src="https:https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="32" height="32" /></a> &nbsp;&nbsp;
-<a  href="https://www.github.com/vignan8" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" width="32" height="32"/></a> &nbsp;&nbsp;
+<p align="left"><a href="https://www.linkedin.com/in/-vignan/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" height="32" /></a> &nbsp;&nbsp;
+<a  href="https://www.github.com/vignan8" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" width="32" height="32"/></a> &nbsp;&nbsp;
  <a href="http://www.instagram.com/vignanofficial" target="_blank" rel="noreferrer"><img src="http://pluspng.com/img-png/instagram-logo-eps-png-instagram-logo-1784.png" width="32" height="32" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/VignanThumma" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="32" height="32" /></a></p>&nbsp;&nbsp;
 
