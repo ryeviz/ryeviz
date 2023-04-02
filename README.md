@@ -24,6 +24,13 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="NumPy" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
+<img align="left" alt="C++" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Anaconda" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/anaconda/anaconda-original.svg" style="padding-right:10px;" />
+<img align="left" alt="BashProgramming" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Jupyter" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Ps" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />
 
 <br />
 <br />
