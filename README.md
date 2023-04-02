@@ -6,17 +6,17 @@
 
 ### Connect with me:
 
-<p align="left"><a href="https://www.linkedin.com/in/-vignan/" target="_blank" rel="noreferrer"><img src="https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=search&related_id=3536505" width="32" height="32" /></a> &nbsp;&nbsp;
-<a  href="https://www.github.com/vignan8" target="_blank" rel="noreferrer"><img src="https://www.flaticon.com/free-icon/github_3291667?term=github&related_id=3291667" width="32" height="32"/></a> &nbsp;&nbsp;
+<p align="left"><a href="https://www.linkedin.com/in/-vignan/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="32" height="32" /></a> &nbsp;&nbsp;
+<a  href="https://www.github.com/vignan8" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/4926/4926624.png" width="32" height="32"/></a> &nbsp;&nbsp;
  <a href="http://www.instagram.com/vignanofficial" target="_blank" rel="noreferrer"><img src="http://pluspng.com/img-png/instagram-logo-eps-png-instagram-logo-1784.png" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/VignanThumma" target="_blank" rel="noreferrer"><img src="https://www.flaticon.com/free-icon/twitter_733579?term=twitter&page=1&position=1&origin=search&related_id=733579" width="32" height="32" /></a></p>&nbsp;&nbsp;
+<a href="https://twitter.com/VignanThumma" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="32" height="32" /></a></p>&nbsp;&nbsp;
 
 
 ### Languages and Tools:
 
 <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />
