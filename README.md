@@ -19,18 +19,17 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="NumPy" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Anaconda" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/anaconda/anaconda-original.svg" style="padding-right:10px;" />
-<img align="left" alt="BashProgramming" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Jupyter" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Ps" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Anaconda" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" style="padding-right:10px;" />
+<img align="left" alt="BashProgramming" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Ps" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />
 
 <br />
 <br />
