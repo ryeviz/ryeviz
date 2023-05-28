@@ -43,7 +43,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vignan8&theme=monokai" alt="GitHub Streak" />
 </p>
  
-<p align="right">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=vignan8&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
        
