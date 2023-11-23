@@ -9,7 +9,7 @@
 <p align="left"><a href="https://www.linkedin.com/in/-vignan/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" height="32" /></a> &nbsp;&nbsp;
 <a  href="https://www.github.com/vignan8" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" width="32" height="32"/></a> &nbsp;&nbsp;
  <a href="http://www.instagram.com/vignanofficial" target="_blank" rel="noreferrer"><img src="http://pluspng.com/img-png/instagram-logo-eps-png-instagram-logo-1784.png" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/VignanThumma" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=256&id=phOKFKYpe00C&format=png" width="32" height="32" /></a></p>&nbsp;&nbsp;
+<a href="https://twitter.com/VignanThumma" target="_blank" rel="noreferrer"><img src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" width="32" height="32" /></a></p>&nbsp;&nbsp;
 
 
 ### Languages and Tools:
