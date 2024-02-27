@@ -1,7 +1,5 @@
 - 👋 Hi, I'm Vignan
 - 🌱 I’m currently learning Advanced Java topics and DSA
-- 👯 I’m looking to collaborate with other projects
-- 🥅 2023 Goals: Learn more about web3
 - 📫 How to reach me- **vignanthumma@gmail.com**
 
 ### Connect with me:
