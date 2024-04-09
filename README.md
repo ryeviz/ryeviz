@@ -38,16 +38,16 @@
   <summary>:zap: GitHub Stats</summary>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vignan8&theme=monokai" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryeviz&theme=monokai" alt="GitHub Streak" />
 </p>
 
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=vignan8&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=ryeviz&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <source 
-srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vignan8&layout=compact&show_icons=true&theme=gotham"
+srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ryeviz&layout=compact&show_icons=true&theme=gotham"
 /> 
 
 
